@@ -89,4 +89,3 @@ merged = combined.merge(combined, left_on=["date", "new_team"], right_on=["date"
 merged
 
 
-## project inspired by dataquest tutorial 
